@@ -1,6 +1,6 @@
 export default function AboutUs(){
     return (
-        <section id="about" class="section-wrapper about">
+        <section id="about" className="section-wrapper about">
 		<h2>About Me</h2>
 		<p>I'm a Computer Science student from Strathmore University currently awaiting graduation.
 			My interests include artificial intelligence, machine learning, computer vision, data analysis and back-end
@@ -12,7 +12,7 @@ export default function AboutUs(){
 			
 		</p>
 
-		<a href="assets/public/resume.pdf" class="btn" target="_blank">Resume</a>
+		<a href="assets/public/resume.pdf" className="btn" target="_blank">Resume</a>
 	</section>
     );
 }
