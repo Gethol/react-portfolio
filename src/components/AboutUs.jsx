@@ -11,7 +11,7 @@ export default function AboutUs(){
 			I also love my movies and listening to music. You can have a listen to one of my favourite songs at the moment.
 			
 		</p>
-		<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6GrLwf1LdBCmkBOsmOcbPp?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 		<a href="assets/public/resume.pdf" class="btn" target="_blank">Resume</a>
 	</section>
     );
