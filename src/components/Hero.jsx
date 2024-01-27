@@ -6,7 +6,7 @@ export default function Hero(){
     return(
         <section className="banner">
 
-		<div className="intro">/assets/icons/pytorch-svgrepo-com.svg
+		<div className="intro">
 			<h1>Welcome to My Portfolio!</h1>
 			<p>I'm Nathan Nderitu, a software developer.</p>
 			<div className="btn-wrapper">

@@ -1,3 +1,9 @@
+import esomaImage from "../assets/public/real_estate.jpg";
+import ambulanceImage from "../assets/public/ambulance_deployment.jpg";
+import genreImage from "../assets/public/real_estate.jpg";
+import hrImage from "../assets/public/Untitled.jpg";
+
+
 export default function Projects() {
     return (
         <section id="projects" className="section-wrapper projects">
@@ -5,7 +11,7 @@ export default function Projects() {
 		<div className="grid ">
 
 			<a href="https://github.com/Gethol/esomaApp" target="_blank"  rel="noreferrer" className="project-card project ">
-				<img src="assets/public/real_estate.jpg" alt=""/>
+				<img src={esomaImage} alt=""/>
 				<h3>Esoma Website</h3>
 				<h4>HTML,CSS,Javascript</h4>
 				<p>
@@ -16,7 +22,7 @@ export default function Projects() {
 
 				</a>
 			<a href="https://github.com/Gethol/aide" target="_blank"  rel="noreferrer" className="project-card project">
-				<img src="assets/public/ambulance_deployment.jpg" alt=""/>
+				<img src={ambulanceImage} alt=""/>
 				<h3>Ambulance Deployment App</h3>
 				<h4>Mapbox, Laravel, HTML,CSS,Javascript</h4>
 				<p>
@@ -28,7 +34,7 @@ export default function Projects() {
 			</a>
 
 			<a href="https://github.com/Gethol/MusicGenreClassifier" target="_blank" rel="noreferrer" className="project-card project">
-				<img src="assets/public/real_estate.jpg" alt=""/>
+				<img src={genreImage} alt=""/>
 				<h3>Music Genre Classification</h3>
 				<h4>Python, Tensorflow, OpenCV, Librosa</h4>
 				<p>
@@ -40,7 +46,7 @@ export default function Projects() {
 			</a>
 
 			<a href="https://github.com/Gethol/hr-app"  rel="noreferrer" className="project-card project">
-				<img src="assets/public/Untitled.jpg" alt="" />
+				<img src={hrImage} alt="" />
 				<h3>HR Management System</h3>
 				<h4>Laravel, Postman, Vue</h4>
 				<p>
