@@ -20,6 +20,7 @@ function App() {
   return (
     <>
       <Navigation />
+      <Hero />
       <AboutUs />
       <Experience />
       <Skills />
