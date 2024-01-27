@@ -1,8 +1,8 @@
 export default function Experience() {
     return (
-        <section class="grid section-wrapper">
+        <section className="grid section-wrapper">
 		<h2>Work Experience</h2>
-		<div class="project-card">
+		<div className="project-card">
 			<h3>Willfreight Express Cargo and Shipping Services</h3>
 			<h4>Software Developer Intern</h4>
 			<h5>January 2023- April 2023</h5>
