@@ -7,6 +7,7 @@ import AboutUs from './components/AboutUs.jsx';
 import Experience from './components/Experience.jsx';
 import Skills from './components/Skills.jsx';
 import Projects from './components/Projects.jsx';
+import Footer from './components/Footer.jsx';
 
 function Navbar(){
   
@@ -23,6 +24,7 @@ function App() {
       <Experience />
       <Skills />
       <Projects />
+      <Footer />
 
     </>
 
