@@ -6,6 +6,7 @@ import Hero from './components/Hero.jsx'
 import AboutUs from './components/AboutUs.jsx';
 import Experience from './components/Experience.jsx';
 import Skills from './components/Skills.jsx';
+import Projects from './components/Projects.jsx';
 
 function Navbar(){
   
@@ -21,6 +22,8 @@ function App() {
       <AboutUs />
       <Experience />
       <Skills />
+      <Projects />
+
     </>
 
   );
