@@ -264,6 +264,7 @@ a img{
 
 
 	.mobile-nav-toggle{
+
 		display: block;
 		position: absolute;
 		background-color: transparent;
@@ -274,7 +275,8 @@ a img{
 		width: 2rem;
 		aspect-ratio: 1;
 		top: 2rem;
-		right: 2em;
+		right: -12em;
+
 	}
 
 	.mobile-nav-toggle[aria-expanded ="true"]{
