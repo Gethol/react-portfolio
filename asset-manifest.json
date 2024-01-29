@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e862eeb3.css",
+    "main.js": "/react-portfolio/static/js/main.d52b439e.js",
+    "static/js/787.cf482a7c.chunk.js": "/react-portfolio/static/js/787.cf482a7c.chunk.js",
+    "static/media/profile_photo.jpg": "/react-portfolio/static/media/profile_photo.77c97d65f942af3fdb4f.jpg",
+    "static/media/mysql-svgrepo-com.svg": "/react-portfolio/static/media/mysql-svgrepo-com.3841cae4ded032dd0ee1f3051380f2f2.svg",
+    "static/media/laravel-svgrepo-com.svg": "/react-portfolio/static/media/laravel-svgrepo-com.3e9c6d9b61f0bb646dc98822fec6746d.svg",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tailwind-svgrepo-com.svg": "/react-portfolio/static/media/tailwind-svgrepo-com.5e48a439b581e110dda9cf5034d71a3c.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/react-portfolio/static/media/linkedin-svgrepo-com.0c14a31530647ab1bf1ae1102d3b25ee.svg",
+    "static/media/github-142-svgrepo-com.svg": "/react-portfolio/static/media/github-142-svgrepo-com.1ec2697c26c5e74b7ac4492c69712b4a.svg",
+    "static/media/postman-svgrepo-com.svg": "/react-portfolio/static/media/postman-svgrepo-com.4aad08fb06fb1be9519ea735afe0d3e6.svg",
+    "static/media/python-svgrepo-com.svg": "/react-portfolio/static/media/python-svgrepo-com.54c0a3161d6a09851b58f799c0da8944.svg",
+    "static/media/html5-02-svgrepo-com.svg": "/react-portfolio/static/media/html5-02-svgrepo-com.dfc97d4da4e42070318d744d2ec01351.svg",
+    "static/media/css3-02-svgrepo-com.svg": "/react-portfolio/static/media/css3-02-svgrepo-com.0543b9289048fbcafd38a4361408bee0.svg",
+    "static/media/pytorch-svgrepo-com.svg": "/react-portfolio/static/media/pytorch-svgrepo-com.9768a0cb446154dd538f4e6131a43386.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/tensorflow-svgrepo-com.svg": "/react-portfolio/static/media/tensorflow-svgrepo-com.cbf1374402a17f565270163df8cce541.svg",
+    "static/media/icon-close.svg": "/react-portfolio/static/media/icon-close.3fdfd54dcaa4a5da13fc.svg",
+    "static/media/icon-hamburger.svg": "/react-portfolio/static/media/icon-hamburger.72bf50c12e96f376fc12.svg",
+    "main.e862eeb3.css.map": "/react-portfolio/static/css/main.e862eeb3.css.map",
+    "main.d52b439e.js.map": "/react-portfolio/static/js/main.d52b439e.js.map",
+    "787.cf482a7c.chunk.js.map": "/react-portfolio/static/js/787.cf482a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e862eeb3.css",
+    "static/js/main.d52b439e.js"
+  ]
+}
